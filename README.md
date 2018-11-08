@@ -8,9 +8,15 @@ Once this is running, execute the app and navigate to the endpoint (default: htt
 The available endpoints are:
 
 /
+
 /login
+
 /register
+
 /blogs
+
 /blogs/new
+
 /posts/<string:blog_id>
+
 /posts/new/<string:blog_id>
